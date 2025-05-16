@@ -1,0 +1,14 @@
+"mapgroups"
+{
+    "fun_map_pool"  // your custom group name
+    {
+        "name"        "Fun Map Pool"
+        "maps"
+        {
+            "de_rats"    ""
+            "fy_iceworld"   ""
+            "cs_office"   ""
+            "de_nuke"   ""
+        }
+    }
+}

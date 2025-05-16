@@ -1,0 +1,5 @@
+.env*.local
+.env
+.vscode
+/.vscode/
+.idea/
